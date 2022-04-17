@@ -13,7 +13,7 @@ for people who still have no idea how this works but still want to use it, it wi
 also don't skid
 
 # Arguments
-There is 1 Required Argument and 2 Optional Requirements
+There is 1 Required Argument and 2 Optional Arguments
 - Path               | (path) (required argument)
 - Image Name         | (name) (optional, defaults to bug.png)
 - Compatibility Mode | (compatibility) (defaults to True)
