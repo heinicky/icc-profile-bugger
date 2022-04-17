@@ -8,6 +8,10 @@ this changes the iCC profile on the image to a specially crafted one which shows
 ![image-on-pc](https://files.catbox.moe/ymmd5m.png)
 ![image-on-android](https://files.catbox.moe/z6s0ul.png)
 
+# Notice
+for people who still have no idea how this works but still want to use it, it will only work in places that don't post process images like discord.
+also don't skid
+
 # Arguments
 There is 1 Required Argument and 2 Optional Requirements
 - Path (required argument)
