@@ -21,4 +21,4 @@ Compatibility Mode Pastes the Image onto the 300x300 Model Image, so you will ne
 This attempts to copy the iCC profile from the Model image onto your image, this easily breaks it. but it does work sometimes and does not require any Rescaling
 
 # Credits
-Thank you to iLHacks#0001 for giving me the png
+Thank you to iLHacks#0001 for giving me the Model PNG 
