@@ -18,5 +18,3 @@ class icc:
             newimage = PIL.Image.open(path)
             newimage.info['icc_profile'] = OGimage.info['icc_profile']
             newimage.save(name)
-
-icc.recolor("Ryuko.jpg")
