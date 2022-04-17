@@ -18,7 +18,7 @@ There is 1 Required Argument and 2 Optional Requirements
 Compatibility Mode Pastes the Image onto the 300x300 Model Image, so you will need to have your images formatted that way or just have it be a square.
 
 # Compatibility Mode Off
-This attempts to copy the iCC profile from the Model image onto your image, this easily breaks it. but it does work sometimes and does not require any Rescaling
+This attempts to copy the iCC profile from the Model image onto your image. this easily breaks it, but it does work sometimes and does not require any Rescaling. use PNG.
 
 # Credits
 Thank you to iLHacks#0001 for giving me the Model PNG 
