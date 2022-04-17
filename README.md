@@ -14,9 +14,9 @@ also don't skid
 
 # Arguments
 There is 1 Required Argument and 2 Optional Requirements
-- Path (required argument)
-- Image Name (optional, defaults to bug.png)
-- Compatibility Mode (defaults to True)
+- Path               | (path) (required argument)
+- Image Name         | (name) (optional, defaults to bug.png)
+- Compatibility Mode | (compatibility) (defaults to True)
 
 # Compatibility Mode On
 Compatibility Mode Pastes the Image onto the 300x300 Model Image, so you will need to have your images formatted that way or just have it be a square.
