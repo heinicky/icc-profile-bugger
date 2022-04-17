@@ -2,8 +2,8 @@ import PIL
 from PIL import Image
 
 class icc:
-    def recolor(path, name="bug.png", compatiblity=True):
-        if compatiblity:
+    def recolor(path, name="bug.png", compatibility=True):
+        if compatibility:
             #this is the safer way to do it, but it scales the image to 300x300.
             OGimage = PIL.Image.open("android.png")
             newimage = PIL.Image.open(path)
